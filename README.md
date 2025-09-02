@@ -35,5 +35,4 @@ The objective was to compare GARCH and LSTM approaches for predicting volatility
 - **LSTM** outperformed GARCH in terms of both MAE and sMAPE.   
 - **GARCH** captured volatility clustering but underperformed against LSTM.  
 
-**Plots of forecasts vs. actual volatility are available in the notebook for visualization.  
-**
+**Plots of forecasts vs. actual volatility are available in the notebook for visualization.
